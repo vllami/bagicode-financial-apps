@@ -1,0 +1,85 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Financy" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="Button" parent="TextAppearance.AppCompat.Button">
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:paddingEnd">20dp</item>
+    </style>
+
+    <style name="Button.Primary">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:background">@drawable/shape_rectangle_red</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Button.Secondary">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:background">@drawable/shape_rectangle_white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Button.Secondary.Stroke">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:background">@drawable/shape_rectangle_white_red</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextView" parent="Widget.AppCompat.TextView" />
+
+    <style name="TextView.High">
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textColor">@color/colorDarkGray</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="TextView.High.White">
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="TextView.Normal">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">@color/colorGray</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="TextView.Normal.White">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="TextView.Normal.Red">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="EditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/shape_rectangle_gray</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textColor">@color/colorDarkGray</item>
+    </style>
+</resources>

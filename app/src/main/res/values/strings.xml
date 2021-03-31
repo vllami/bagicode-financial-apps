@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Financy</string>
+    <string name="understand">Understand</string>
+    <string name="pahami_kondisi_financial_sekarang">Pahami kondisi finansial sekarang!</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="masuk">Masuk</string>
+    <string name="halo">Halo,</string>
+    <string name="mulai">Mulai</string>
+    <string name="harap_login_untuk_lanjut">Harap login untuk lanjut</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="silahkan_isi_data_dibawah_ini">Silahkan isi data dibawah ini</string>
+    <string name="daftar">Daftar</string>
+    <string name="profil">Profil</string>
+    <string name="blog">Blog</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="keluar">Keluar</string>
+    <string name="sudah_menabung_hari_ini">Sudah menabung hari ini?</string>
+    <string name="tentukan_tujuan_keuanganmu">Tentukan tujuan keuanganmu!</string>
+    <string name="goal">Goal</string>
+    <string name="pilih_strategi_yang_kamu_inginkan">Pilih strategi yang kamu inginkan!</string>
+    <string name="choose">Choose</string>
+    <string name="ada_yang_bisa_kami_bantu">Ada yang bisa kami bantu?</string>
+    <string name="halo_villa">Halo, Villa</string>
+</resources>
